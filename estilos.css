@@ -1,0 +1,29 @@
+body {
+    background-color: #f0f8ff; /* Color de fondo suave */
+    font-family: 'Arial', sans-serif; /* Fuente general */
+}
+
+header {
+    background-color: #ff69b4; /* Rosa vibrante */
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1, h2 {
+    color: #4b0082; /* Color de texto para encabezados */
+}
